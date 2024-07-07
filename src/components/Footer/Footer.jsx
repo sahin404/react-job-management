@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
 <footer className="mt-16 bg-neutral text-neutral-content p-10">
-  <div className=" flex max-w-6xl mx-auto justify-between">
+  <div className="space-y-10 md:space-y-0 md:flex max-w-6xl mx-auto justify-between">
   <nav className="grid">
     <h6 className="footer-title">Services</h6>
     <a className="link link-hover">Branding</a>
