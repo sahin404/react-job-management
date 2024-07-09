@@ -114,7 +114,7 @@
         }
       },
       {
-        "id": 1,
+        "id": 7,
         "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
         "job_title": "Technical Database Engineer",
         "company_name": "Google LLC",
@@ -133,7 +133,7 @@
         }
       },
       {
-          "id": 2,
+          "id": 8,
           "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
           "job_title": "Senior Product Designer",
           "company_name": "Netflix",
@@ -152,7 +152,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 9,
           "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
           "job_title": "Software Engineer",
           "company_name": "Tesla",
@@ -171,7 +171,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 10,
           "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
           "job_title": "Software Engineer",
           "company_name": "Google LLC",
@@ -190,7 +190,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 11,
           "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
           "job_title": "Technical Database Engineer",
           "company_name": "Tesla",
@@ -209,7 +209,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 12,
           "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
           "job_title": "Senior Product Designer",
           "company_name": "Netflix",

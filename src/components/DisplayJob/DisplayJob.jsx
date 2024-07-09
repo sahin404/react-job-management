@@ -1,5 +1,7 @@
+import PropTypes from 'prop-types';
 import { FaLocationDot } from "react-icons/fa6";
 import { CiDollar } from "react-icons/ci";
+import { Link } from 'react-router-dom';
 const DisplayJob = ({ job }) => {
     const {id,logo,job_title,company_name,remote_or_onsite,location,job_type,salary} = job;
   return (
@@ -29,11 +31,15 @@ const DisplayJob = ({ job }) => {
             </div>
         </div>
         <div className="card-actions">
-          <button className="btn btn-primary">See Details</button>
+        
+         <Link to={`/job/${id}`}><button className="btn btn-primary">See Details</button></Link> 
         </div>
       </div>
     </div>
   );
 };
 
+DisplayJob.propTypes={
+  job:PropTypes.object
+}
 export default DisplayJob;
